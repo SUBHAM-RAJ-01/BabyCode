@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC8Q1RYs9IvRUWoeXmoCadS3BUG9_LmEOk",
+  apiKey: "LmEOk",
   authDomain: "babycode-28f5d.firebaseapp.com",
   projectId: "babycode-28f5d",
   storageBucket: "babycode-28f5d.firebasestorage.app",
